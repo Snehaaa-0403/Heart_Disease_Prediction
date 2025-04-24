@@ -1,7 +1,5 @@
 <h1 align="left">Heart Disease Prediction using Machine Learning</h1>
 
-###
-
 <h2 align="left">About project</h2>
 
 ###
@@ -12,9 +10,6 @@
 
 <h3 align="left">Libraries Used</h3>
 
-
 ###
 
 <h6 align="left">Numpy<br>Pandas<br>Matplotlib<br>Scikit-Learn</h6>
-
-###
